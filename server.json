@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.toolpin/toolpin",
+  "description": "Look up what an MCP server was last observed to do: whether it answered, what its tools claimed, and whether that claim has changed. Facts with timestamps, never scores or safety judgments.",
+  "version": "0.1.0",
+  "websiteUrl": "https://toolpin.dev",
+  "repository": {
+    "url": "https://github.com/Toolpin/mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://toolpin.dev/mcp"
+    }
+  ]
+}
