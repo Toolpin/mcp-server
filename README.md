@@ -67,4 +67,4 @@ Documentation and the published registry manifest. The service itself is closed
 source. Tool-definition changes are recorded in [CHANGELOG.md](CHANGELOG.md),
 which is the same thing Toolpin watches for on everyone else.
 
-Questions: <corey@macroalchemy.com>
+Questions: <hello@toolpin.dev>
